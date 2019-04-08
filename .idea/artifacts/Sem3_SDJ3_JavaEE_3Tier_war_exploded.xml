@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Sem3_SDJ3_JavaEE_3Tier:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sem3_SDJ3_JavaEE_3Tier_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Sem3_SDJ3_JavaEE_3Tier/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Sem3_SDJ3_JavaEE_3Tier" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
